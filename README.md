@@ -26,16 +26,16 @@ Below are a few screenshots showing the dataset before and after the cleaning pr
 
 ### Dataset Overview
 
-![Dataset Overview](images/dataset-overview.png)
+![Dataset Overview](Images/Raw-dataset-overview.png)
 
 ### Missing Values Identified
 
-![Missing Values](images/missing-values-before.png)
+![Missing Values](Images/missing-values-Before.png)
 
 ### Missing Values Resolved
 
-![After Cleaning](images/missing-values-after.png)
+![After Cleaning](Images/Missing-Values-After.png)
 
 ### Final Cleaned Dataset
 
-![Final Dataset](images/cleaned-dataset.png)
+![Final Dataset](Images/cleaned-dataset.png)
