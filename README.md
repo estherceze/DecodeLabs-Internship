@@ -19,3 +19,23 @@ This project involved cleaning an e-commerce order dataset containing **1,200 ro
 - Applied the `TRIM()` function to text columns to remove unnecessary whitespace.
 - Checked for duplicate records.
 - Validated the Date column to ensure it was correctly formatted.
+
+## Project Screenshots
+
+Below are a few screenshots showing the dataset before and after the cleaning process.
+
+### Dataset Overview
+
+![Dataset Overview](images/dataset-overview.png)
+
+### Missing Values Identified
+
+![Missing Values](images/missing-values-before.png)
+
+### Missing Values Resolved
+
+![After Cleaning](images/missing-values-after.png)
+
+### Final Cleaned Dataset
+
+![Final Dataset](images/cleaned-dataset.png)
